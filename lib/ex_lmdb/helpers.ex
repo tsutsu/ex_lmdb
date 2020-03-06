@@ -1,4 +1,6 @@
 defmodule ExLMDB.Helpers do
+  @moduledoc false
+
   defmacro unwrap!(resp) do
     quote do
       case unquote(resp) do
