@@ -1,0 +1,3 @@
+%{
+  "elmdb": {:hex, :elmdb, "0.4.1", "af0765a4117de44d9cac199d4aed9077ca11d652c43251d4d208f917243d30d7", [:rebar3], [], "hexpm"},
+}
